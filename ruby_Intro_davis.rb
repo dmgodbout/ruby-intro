@@ -16,8 +16,8 @@ end
 
 
 
-def Ruby Intro.stringcheck(string,word)
-  string.include? word_wrap
+def RubyIntro.stringcheck(string,word)
+  full_string.include? check_string
 end
 
 
